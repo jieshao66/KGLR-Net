@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "KGLR-Net: Knowledge-Guided Global-to-Local Refinement for Limited-Annotation Dermoscopic Lesion and Colonoscopic Polyp Segmentation"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Wang
+    given-names: Xijie
+    email: 202511160296@nwnu.edu.cn
+    affiliation: "Northwest Normal University"
+  - family-names: Jiang
+    given-names: Yun
+    email: jiangyun@nwnu.edu.cn
+    affiliation: "Northwest Normal University"
+  - family-names: Sun
+    given-names: Tao
+    email: 202421162201@nwnu.edu.cn
+    affiliation: "Northwest Normal University"
+license: Apache-2.0
+keywords:
+  - medical image segmentation
+  - limited-annotation fully supervised segmentation
+  - computable medical imaging priors
+  - automatic prompting
+  - global-to-local refinement
+preferred-citation:
+  type: article
+  title: "KGLR-Net: Knowledge-Guided Global-to-Local Refinement for Limited-Annotation Dermoscopic Lesion and Colonoscopic Polyp Segmentation"
+  authors:
+    - family-names: Wang
+      given-names: Xijie
+    - family-names: Jiang
+      given-names: Yun
+    - family-names: Sun
+      given-names: Tao
+  year: 2026

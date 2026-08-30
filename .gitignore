@@ -1,0 +1,47 @@
+# Local datasets and generated artifacts
+data/
+Dataset/
+results/
+result/
+result_*/
+outputs/
+checkpoints/
+weights/
+run_logs/
+
+# Model weights, caches, arrays, and logs
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.npy
+*.npz
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Credentials and machine-local configuration
+.env
+.env.*
+!.env.example
+
+# Generated visualizations and metrics
+visualizations/
+metrics/
+
